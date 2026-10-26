@@ -18,5 +18,5 @@ cx_chrun_data.csv, site_location.csv
 
 ## Key Findings
 
-[Add churn rate, strongest churn drivers and highest-risk segments]
+https://github.com/irushaarundi/Customer_Data_Analysis/blob/main/Customer_Data_Analysis.ipynb
 
