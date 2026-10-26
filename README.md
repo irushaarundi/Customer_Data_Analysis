@@ -20,6 +20,3 @@ cx_chrun_data.csv, site_location.csv
 
 [Add churn rate, strongest churn drivers and highest-risk segments]
 
-## Author
-
-Irusha Arundi Perera
